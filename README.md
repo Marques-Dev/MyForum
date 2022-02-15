@@ -1,0 +1,1 @@
+aplicação feita com react-js e com banco firebase, usado spa para paginação
